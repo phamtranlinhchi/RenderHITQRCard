@@ -1,0 +1,21 @@
+.header {
+    height: 300px;
+    width: 100%;
+    background: rgb(247, 151, 49);
+    background: linear-gradient(90deg, rgba(247, 151, 49, 1) 0%, rgba(255, 81, 57, 1) 50%, rgba(247, 151, 49, 1) 100%);
+    // display: flex;
+    // justify-content: center;
+
+    .heading {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+        color: white;
+    }
+
+    img {
+        margin-top: 20px;
+        height: 80px;
+        margin: 0 auto;
+    }
+}

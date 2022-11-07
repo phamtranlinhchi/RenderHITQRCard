@@ -1,0 +1,228 @@
+[{
+  "_id": {
+    "$oid": "60def9229e89e036614f34ec"
+  },
+  "student_code": "2019602010",
+  "password": "26113012a",
+  "full_name": "Lê Văn Hà",
+  "phone_number": "0366754936",
+  "email": "birtday11111@gmail.com",
+  "faculty": "CNTT",
+  "date_of_birth": "26/11/01",
+  "class_name": "KHMT1",
+  "school_year": "K14",
+  "club_year": "K11",
+  "position": "Member",
+  "roles": "user"
+},{
+  "_id": {
+    "$oid": "60df112f5442c7d50e226348"
+  },
+  "student_code": "2019607088",
+  "password": "$2b$10$HnfnOFFsn9zTHEHQVMb2U.AJnfJKDymqWcY8lajfuOh5E4ocSctQS",
+  "full_name": "Nguyễn Bá Đông",
+  "phone_number": "0123456789",
+  "email": "nguyenbadong01@gmail.com",
+  "faculty": "CNTT",
+  "date_of_birth": {
+    "$date": "2001-04-12T00:00:00Z"
+  },
+  "class_name": "CNTT6",
+  "school_year": 14,
+  "club_year": 11,
+  "position": 4,
+  "role": 1,
+  "address": "Hà Nội",
+  "bio": "Chu be dan",
+  "updatedAt": {
+    "$date": "2022-01-23T13:57:37.310Z"
+  },
+  "avatar": "/images/default.png",
+  "createdAt": {
+    "$date": "2021-07-02T14:52:15.706Z"
+  },
+  "gender": "male"
+},{
+  "_id": {
+    "$oid": "60e945b37ea3944fb8b3265c"
+  },
+  "avatar": "/images/default.png",
+  "position": 4,
+  "role": 3,
+  "student_code": "2019602011",
+  "password": "$2b$10$TTPGjxb5lNm0sHlti07scOKHUxpUjd03NHfW9p9auC5HrA7LuMR6S",
+  "full_name": "Lê Văn Ha",
+  "email": "12@gmail.com",
+  "faculty": "CNTT",
+  "date_of_birth": {
+    "$date": "2001-11-26T00:00:00Z"
+  },
+  "class_name": "KHMT1",
+  "school_year": 14,
+  "club_year": 11,
+  "createdAt": {
+    "$date": "2021-07-10T07:01:07.075Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-10T07:04:04.151Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e9c77b8ff69473c0455d31"
+  },
+  "avatar": "/images/default.png",
+  "position": 4,
+  "role": 4,
+  "student_code": "2019602012",
+  "password": "$2b$10$kvm8dMx73Z0WSwI.mum9ouNe6.AW/3Tgd9X4EjR3YBTeDIPTkwBiC",
+  "full_name": "Nguyễn Văn A",
+  "email": "demo@gmail.com",
+  "faculty": "CNTT",
+  "date_of_birth": {
+    "$date": "2019-12-11T00:00:00Z"
+  },
+  "class_name": "CNTT3",
+  "school_year": 13,
+  "club_year": 10,
+  "createdAt": {
+    "$date": "2021-07-10T16:14:51.662Z"
+  },
+  "updatedAt": {
+    "$date": "2021-11-21T02:43:17.670Z"
+  },
+  "__v": 0,
+  "address": "Bắc Từ Liêm, HN",
+  "bio": "Tiểu sử",
+  "gender": "male",
+  "phone_number": "0983838389"
+},{
+  "_id": {
+    "$oid": "60f426ab16b85e4c742bf00d"
+  },
+  "avatar": "/images/default.png",
+  "position": 4,
+  "role": 3,
+  "student_code": "2019604615",
+  "password": "$2b$10$kKsusOXBAuRwbP2SHNCjn.RBRWrGzDfB0UYq.q0qsfr.f6ya40aC2",
+  "full_name": "nguyễn",
+  "email": "shady@gmail.com",
+  "faculty": "KTPM",
+  "date_of_birth": {
+    "$date": "2001-11-26T00:00:00Z"
+  },
+  "class_name": "KTPM3",
+  "school_year": 14,
+  "club_year": 11,
+  "createdAt": {
+    "$date": "2021-07-18T13:03:39.312Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-18T13:53:31.768Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60fc2b81c9cbe63e447f0143"
+  },
+  "avatar": "/images/default.png",
+  "position": 4,
+  "role": 3,
+  "student_code": "2019606167",
+  "password": "$2b$10$iLfW6UTgKdf3SSRyDpAGmOE5EB5AWZTUDcYCAFDrmwOQtKlTJY.Ba",
+  "full_name": "Le Minh Hung",
+  "email": "leminhhungtabletennis@gmail.com",
+  "faculty": "CNTT",
+  "date_of_birth": {
+    "$date": "2001-12-22T17:00:00Z"
+  },
+  "class_name": "CNTT2",
+  "school_year": 14,
+  "club_year": 2020,
+  "createdAt": {
+    "$date": "2021-07-24T15:02:25.221Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-22T06:46:26.330Z"
+  },
+  "__v": 0,
+  "gender": "male",
+  "address": "THANH HOÁ",
+  "bio": "đẹp zaiii",
+  "phone_number": "0124 398 7789"
+},{
+  "_id": {
+    "$oid": "6149a9db5e3215046cfa9b2f"
+  },
+  "avatar": "/images/default.png",
+  "position": 4,
+  "role": 3,
+  "student_code": "2019606088",
+  "password": "$2a$10$qYv94XtKYGqTkzp8qnc8QOHpXNl3umYbbMpUtiyZuyfJKiWQ.JnOO",
+  "full_name": "NK Huy",
+  "email": "nkhuy@gmail.com",
+  "faculty": "Cong Nghe Thong Tin",
+  "date_of_birth": {
+    "$date": "2001-09-10T17:00:00Z"
+  },
+  "class_name": "KPTM04",
+  "school_year": 2018,
+  "club_year": 2019,
+  "createdAt": {
+    "$date": "2021-09-21T09:46:03.645Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T09:46:03.645Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6149aac4c1e92728a09d1df4"
+  },
+  "avatar": "/images/default.png",
+  "position": 4,
+  "role": 3,
+  "student_code": "2019606089",
+  "password": "$2a$10$B4npfJL33g/ts/ic8skR2OiYiTwP1MTRqNOy8jMH7I7NM/GIeYbgm",
+  "full_name": "NK Huy",
+  "email": "nkhuy1@gmail.com",
+  "faculty": "Cong Nghe Thong Tin",
+  "date_of_birth": {
+    "$date": "2001-09-10T17:00:00Z"
+  },
+  "class_name": "KPTM04",
+  "school_year": 2018,
+  "club_year": 2019,
+  "createdAt": {
+    "$date": "2021-09-21T09:49:56.674Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-21T09:49:56.674Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6209c3ba691be910acca8593"
+  },
+  "avatar": "/images/default.png",
+  "position": 4,
+  "role": 3,
+  "student_code": "123",
+  "password": "$2b$10$AF.bqkfSJ50CrhDC5g4oh.SJH8RyK5HPEK68A4mRxIJWMUh3Jnn7q",
+  "full_name": "Nguyễn Quốc Cường",
+  "email": "nguyenquoccuong@gmail.com",
+  "faculty": "CNTT",
+  "date_of_birth": {
+    "$date": "2001-02-01T17:00:00Z"
+  },
+  "class_name": "KTPM3",
+  "school_year": 2001,
+  "club_year": 2001,
+  "createdAt": {
+    "$date": "2022-02-14T02:51:38.535Z"
+  },
+  "updatedAt": {
+    "$date": "2022-02-14T02:51:38.535Z"
+  },
+  "__v": 0
+}]

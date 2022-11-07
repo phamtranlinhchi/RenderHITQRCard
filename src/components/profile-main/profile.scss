@@ -1,0 +1,22 @@
+.profile {
+    width: 60%;
+    height: 100%;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-right: 20px;
+
+    .avt {
+        margin-top: 50px;
+        height: 200px;
+        width: 200px;
+        position: relative;
+        left: 50%;
+        transform: translate(-50%, 0);
+        img {
+            background-color: coral;
+            border-radius: 100rem;
+            // object-fit: cover;
+        }
+    }
+}
